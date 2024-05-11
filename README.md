@@ -1,4 +1,4 @@
-# Redox-Airline-Dashboard-Using-Excel
+# Redox Airline Dashboard Using Excel
 As a data analytics consultant, I was approached by a small startup airline based in the Chicago, Illinois area. Despite having a strong background in airline operations, the management team lacked experience in financial analysis and data analytics. Their systems were disparate and not interconnected, making it challenging to access and analyze critical data efficiently.
 
 My task was to consolidate and analyze the airline's data as well as provide key insights to drive business growth and enhance its position in the industry.
