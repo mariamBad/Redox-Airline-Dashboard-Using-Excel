@@ -1,0 +1,21 @@
+The total number of flights for Redox Airline for the year 2014 and 2015 is 9636. 
+
+The number of flights in 2014 is 4814 while the number of flights in 2015 is 4822. This means that 2015 had eight flights more than 2014.
+
+Three aircrafts, A319, A320, and B737 were used in the years 2014 and 2015. These aircrafts flew a maximum of 3879,1298, and 4459 times respectively. 
+
+In 2014, A319, A320, and B737 flew 1927, 686, and 2201 times respectively. In 2015, A319, A320, and B737 flew 1952, 612, and 2258 times respectively. 
+It is obvious from these insights that A320 flew the least in both years. However, it flew more in 2014 compared to 2015.
+
+Aircraft B737 made the highest revenue in both years and led A319 by $54,610,063.75. Unfortunately, A320 made the least revenue in both years.
+It is obvious from these insights that A320 flew the least in both years. However, it flew more in 2014 compared to 2015.
+
+The total revenue generated in both years is $509,559,157.80.
+ 
+The revenue generated in 2014 was $252,923,425.70 while the revenue generated in 2015 was $256,635,732.10. This means that the year 2015 made more revenue than 2014.
+
+The routes with the least revenue generated in the years 2014 and 2015 are ORD-SLC, ORD-DCA, ORD-BWI, ORD-IAD, AND ORD-DTW.
+
+The bottom five routes in 2014 were ORD-DCA, ORD-SLC, ORD-BWI, ORD-IAD, AND ORD-MSP while the bottom five routes in 2015 were ORD-SLC, ORD-DCA, ORD-DTW, ORD-BWI, and ORD-IAD.
+
+ORD-SLC, ORD-DCA, ORD-BWI, and ORD-IAD seem to be the prevalent bottom four routes.
